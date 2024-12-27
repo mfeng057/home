@@ -65,10 +65,6 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Cloud,
-  CompactDisc,
-  Compass,
-  Book,
-  Fire,
   LaptopCode,
   FileExport,
 };
